@@ -2,7 +2,7 @@
 #### Design and Development
 ![Design and Development](https://media1.thehungryjpeg.com/thumbs2/800_3751743_yt4lc4kgmuyzeahmryiofe9k39x9b1cz4b2qsuzv_coding-system-minimal-infographic-banner-vector.jpg)
 
-My name is Samman Baidya and I'm a software engineer living in Parkville, Maryland. I love technology and how it continue to evolve. I am very excited on what the future holds for us in the technology field and I hope to be in the engineering seat while it unfolds :D .
+I'm a software engineer living in Parkville, Maryland. I love technology and how it continues to evolve. I am very excited on what the future holds for us in the technology field and I hope to be in the engineering seat while it unfolds :D .
 
 My recent interest has been AI/ML which I am really excited getting into. 
 
